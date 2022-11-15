@@ -5,6 +5,8 @@ printf("\nEnter two no: ");
 scanf("%d %d", &a, &b);
 sum = a + b;
 printf("Sum : %d", sum);
+printf("Sum : %d", sum);
+printf("Sum : %d", sum);
 return(0);
 
 // I am in dev 2
